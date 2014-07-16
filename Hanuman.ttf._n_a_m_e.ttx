@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0">
+      Copyright by Danh Hong, 2011.
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0">
+      Hanuman
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0">
+      Hanuman:Version 2.00
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0">
+      Hanuman
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0">
+      Version 2.00 August 13, 2011
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0">
+      Hanuman
+    </namerecord>
+    <namerecord nameID="8" platformID="1" platEncID="0" langID="0x0">
+      Danh Hong
+    </namerecord>
+    <namerecord nameID="9" platformID="1" platEncID="0" langID="0x0">
+      Danh Hong
+    </namerecord>
+    <namerecord nameID="11" platformID="1" platEncID="0" langID="0x0">
+      http://www.khmertype.blogspot.com/
+    </namerecord>
+    <namerecord nameID="12" platformID="1" platEncID="0" langID="0x0">
+      http://www.khmertype.blogspot.com/
+    </namerecord>
+    <namerecord nameID="256" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="257" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="258" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="259" platformID="1" platEncID="0" langID="0x0">
+      Rearrangement
+    </namerecord>
+    <namerecord nameID="260" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="261" platformID="1" platEncID="0" langID="0x0">
+      Rearrangement
+    </namerecord>
+    <namerecord nameID="262" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="263" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="264" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="265" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="266" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="267" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="268" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="269" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="270" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="271" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="272" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="273" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="274" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="275" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="276" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="277" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="278" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="279" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="280" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="281" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="282" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="283" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="284" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="285" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="286" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="287" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="288" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="289" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="290" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="291" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="292" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="293" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="294" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="295" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="296" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="297" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="298" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="299" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="300" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="301" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="302" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="303" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="304" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="305" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="306" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="307" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="308" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="309" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="310" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="311" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="312" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="313" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="314" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="315" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="316" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="317" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="318" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="319" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="320" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="321" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="322" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="323" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="324" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="325" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="326" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="327" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="328" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="329" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="330" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="331" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="332" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="333" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="334" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="335" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="336" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="337" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="338" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="339" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="340" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="341" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="342" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="343" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="344" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="345" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="346" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="347" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="348" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="349" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="350" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="351" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="352" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="353" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="354" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="355" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="356" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="357" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="358" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="359" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="360" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="361" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="362" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="363" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="364" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="365" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="366" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="367" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="368" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="369" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="370" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="371" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="372" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="373" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="374" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="375" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="376" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="377" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="378" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="379" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="380" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="381" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="382" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="383" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="384" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="385" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="386" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="387" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="388" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="389" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="390" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="391" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="392" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="393" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="394" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="395" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="396" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="397" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="398" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="399" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="400" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="401" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="402" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="403" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="404" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="405" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="406" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="407" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="408" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="409" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="410" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="411" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="412" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="413" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="414" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="415" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="416" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="417" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="418" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="419" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="420" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="421" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="422" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="423" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement
+    </namerecord>
+    <namerecord nameID="424" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="425" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="426" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="427" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="428" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="429" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="430" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="431" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Copyright by Danh Hong, 2011.
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Hanuman
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      Hanuman:Version 2.00
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      Hanuman
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 2.00 August 13, 2011
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      Hanuman
+    </namerecord>
+    <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
+      Danh Hong
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x409">
+      Danh Hong
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409">
+      http://www.khmertype.blogspot.com/
+    </namerecord>
+    <namerecord nameID="12" platformID="3" platEncID="1" langID="0x409">
+      http://www.khmertype.blogspot.com/
+    </namerecord>
+  </name>
+
+</ttFont>
