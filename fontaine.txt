@@ -1,0 +1,72 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Hanuman
+    Sub family: Bold
+    Weight: bold
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Copyright by Danh Hong, 2011.
+    Version: Version 2.00 August 14, 2011
+    Vendor: Danh Hong
+    Vendor url: http://www.khmertype.blogspot.com/
+    Designer: Danh Hong
+    Designer url: http://www.khmertype.blogspot.com/
+    Glyph count: 401
+    Character count: 198
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 43
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Hanuman
+    Sub family: Regular
+    Weight: normal
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Copyright by Danh Hong, 2011.
+    Version: Version 2.00 August 13, 2011
+    Vendor: Danh Hong
+    Vendor url: http://www.khmertype.blogspot.com/
+    Designer: Danh Hong
+    Designer url: http://www.khmertype.blogspot.com/
+    Glyph count: 401
+    Character count: 198
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 43
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
